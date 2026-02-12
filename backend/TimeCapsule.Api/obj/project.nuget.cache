@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "XxpTBAXC01M=",
+  "success": true,
+  "projectFilePath": "/Users/volkanuzun/Devign34/Projects/TimeCapsule/backend/TimeCapsule.Api/TimeCapsule.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/volkanuzun/.nuget/packages/azure.communication.email/1.1.0/azure.communication.email.1.1.0.nupkg.sha512",
+    "/Users/volkanuzun/.nuget/packages/azure.core/1.49.0/azure.core.1.49.0.nupkg.sha512",
+    "/Users/volkanuzun/.nuget/packages/azure.data.tables/12.10.0/azure.data.tables.12.10.0.nupkg.sha512",
+    "/Users/volkanuzun/.nuget/packages/azure.storage.blobs/12.24.0/azure.storage.blobs.12.24.0.nupkg.sha512",
+    "/Users/volkanuzun/.nuget/packages/azure.storage.common/12.23.0/azure.storage.common.12.23.0.nupkg.sha512",
+    "/Users/volkanuzun/.nuget/packages/microsoft.aspnetcore.openapi/10.0.2/microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "/Users/volkanuzun/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "/Users/volkanuzun/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/Users/volkanuzun/.nuget/packages/system.clientmodel/1.7.0/system.clientmodel.1.7.0.nupkg.sha512",
+    "/Users/volkanuzun/.nuget/packages/system.io.hashing/6.0.0/system.io.hashing.6.0.0.nupkg.sha512",
+    "/Users/volkanuzun/.nuget/packages/system.memory.data/8.0.1/system.memory.data.8.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "TimeCapsule.Api depends on Azure.Storage.Blobs (>= 12.23.1) but Azure.Storage.Blobs 12.23.1 was not found. Azure.Storage.Blobs 12.24.0 was resolved instead.",
+      "projectPath": "/Users/volkanuzun/Devign34/Projects/TimeCapsule/backend/TimeCapsule.Api/TimeCapsule.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/volkanuzun/Devign34/Projects/TimeCapsule/backend/TimeCapsule.Api/TimeCapsule.Api.csproj",
+      "libraryId": "Azure.Storage.Blobs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

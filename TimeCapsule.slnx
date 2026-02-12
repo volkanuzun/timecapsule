@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/TimeCapsule.Api/TimeCapsule.Api.csproj" />
+  </Folder>
+</Solution>
